@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [test](index.md)
+[new_file](new_file.md)
 
 You can use the [editor on GitHub](https://github.com/Kiroong/Progress-Report/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
